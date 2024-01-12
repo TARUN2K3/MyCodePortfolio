@@ -1,7 +1,5 @@
-# Portfolio
 # TechShowcase: A Personal Portfolio
-# Tarun Kumar Sharma Portfolio
-# HTML5 and CSS3 for structure and styling
+## HTML5 and CSS3 for structure and styling
 
 ## About
 
