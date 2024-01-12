@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to my GitHub repository for my personal portfolio ## HTML5 and CSS3 for structure and styling . This repository houses the code for my portfolio website, showcasing my skills, projects, and more. Feel free to explore and learn more about me!
+Welcome to my GitHub repository for my personal portfolio HTML5 and CSS3 for structure and styling . This repository houses the code for my portfolio website, showcasing my skills, projects, and more. Feel free to explore and learn more about me!
 
 ## Demo
 
